@@ -132,6 +132,19 @@ End-to-end pipeline for fine-tuning and evaluating open-source LLMs with 4-bit/8
 
 ---
 
+### ✝️ ChristianityAI — Scripture-Grounded Multi-Agent AI Assistant
+> **RAG · Multi-Agent · FAISS · BM25 · Groq LLM · FastAPI · Next.js 15**
+
+Production-grade AI assistant for Christian scripture Q&A, theology, content generation, and image creation — built with hallucination prevention, safety layers, and denomination awareness.
+- 📖 **31,000+ KJV verses** indexed with FAISS + BM25 hybrid retrieval (BAAI/bge embeddings)
+- 🤖 **7-route agent system**: Scripture QA → Theology → Content Gen → Image Gen → Verse Verification → Safety → Citation Validator
+- 🛡️ **Anti-hallucination pipeline**: retrieval-only answers, confidence thresholds, post-generation citation validator, fake verse detection
+- ⚡ **Safety layer**: regex fast-path + LLM moderation blocking hate speech, jailbreaks, prompt injections
+- 🏛️ **Denomination-aware**: Catholic / Protestant / Orthodox multi-perspective responses
+- 📊 **Evaluation suite**: 5 test categories with quantitative metrics (hallucination rate, safety block rate, verse accuracy)
+
+---
+
 ### 🧠 Advanced Agentic AI System (LangGraph)
 > **LangGraph · Tool Calling · Multi-Agent · FastAPI**
 
@@ -146,18 +159,6 @@ Enterprise-grade RAG pipeline with document ingestion, chunking, embedding, vect
 
 ---
 
-### ✝️ ChristianityAI — Scripture-Grounded Multi-Agent AI Assistant
-> **RAG · Multi-Agent · FAISS · BM25 · Groq LLM · FastAPI · Next.js 15**
-
-Production-grade AI assistant for Christian scripture Q&A, theology, content generation, and image creation — built with hallucination prevention, safety layers, and denomination awareness.
-- 📖 **31,000+ KJV verses** indexed with FAISS + BM25 hybrid retrieval (BAAI/bge embeddings)
-- 🤖 **7-route agent system**: Scripture QA → Theology → Content Gen → Image Gen → Verse Verification → Safety → Citation Validator
-- 🛡️ **Anti-hallucination pipeline**: retrieval-only answers, confidence thresholds, post-generation citation validator, fake verse detection
-- ⚡ **Safety layer**: regex fast-path + LLM moderation blocking hate speech, jailbreaks, prompt injections
-- 🏛️ **Denomination-aware**: Catholic / Protestant / Orthodox multi-perspective responses
-- 📊 **Evaluation suite**: 5 test categories with quantitative metrics (hallucination rate, safety block rate, verse accuracy)
-
----
 
 ### 🗣️ Hindi Speech Sentiment Analyzer
 > **TF-IDF · Text Clustering · Streamlit · spaCy · NLP**

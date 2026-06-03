@@ -4,6 +4,7 @@
 
 ### Full Stack AI Engineer · GenAI · LangChain · RAG Pipelines · LLM Systems
 
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://pratik-portfolio-5vub.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-kumar-ba467425b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PK8320)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikkumar.bhumca22@gmail.com)

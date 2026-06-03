@@ -26,6 +26,48 @@ Currently at **Ministry of Electronics & IT (NeGD, Government of India)**, build
 
 ---
 
+## 💼 Work Experience
+
+### 🏛️ AI/ML Engineer Intern — NeGD, MeitY, Government of India
+**📅 Feb 2026 – Present &nbsp;|&nbsp; 📍 New Delhi, India**
+
+**Project 1: AI-Powered Expert Selection System (UPSC)**
+- ⚡ Slashed panel generation time from **hours → under 5 minutes** using end-to-end RAG pipeline over **17,000+ biodata records**
+- 📉 Reduced manual shortlisting effort by **~80%** — replacing a fully human process with ranked, diversity-constrained AI output
+- 🔧 Multi-stage pipeline: Rule-based SQL filtering → BERT embeddings → FAISS semantic retrieval → Random Forest ranking → Linear Programming for diversity constraints
+
+**Project 2: AI Office Management System (Ministry of Youth Affairs & Sports)**
+- 📈 Boosted task capture rate from **~60% → 95%** and cut manual coordination effort by **~70%** for a 40+ person senior government office
+- 🤖 Built LangChain agentic workflows for natural language task parsing via **WhatsApp Bot**; LangGraph DAG orchestration for multi-step document approval flows
+- 🧠 LLM inferencing pipeline (Claude API) covering **12 official document types**; NestJS microservices with REST APIs, webhooks, async messaging (OWASP security)
+- 🗄️ pgVector semantic document retrieval; deployed on **AWS (EC2, S3, RDS)**; Docker containerization with Supabase Edge Functions + pgcron for automated reminder cascade
+
+---
+
+### 💻 Software Developer — Information & Public Relations Office, BHU
+**📅 Mar 2025 – Jan 2026 &nbsp;|&nbsp; 📍 Varanasi, India**
+
+- 🚀 Cut average page load time by **~40%** — built institutional websites using **Next.js, Strapi, PostgreSQL** with SSR and Redis caching
+- 📊 Built NLP-based sentiment analysis pipeline (Python, Pandas, spaCy) tracking public opinion trends; delivered **Power BI dashboards** replacing manual reporting — saving **~70% effort**
+
+---
+
+### ✍️ Data Annotator (LLM) — Turing
+**📅 Jun 2025 – Aug 2025 &nbsp;|&nbsp; 📍 Remote**
+
+- 📦 Annotated and curated large-scale multimodal datasets (code, text, image) for LLM training and fine-tuning at production scale
+- ⚙️ Improved annotation workflow efficiency by **~30%** through QA process optimization
+
+---
+
+### 🖥️ Software Developer — Revtrance Softwares LLP
+**📅 Sep 2024 – Dec 2024 &nbsp;|&nbsp; 📍 India**
+
+- 🔧 Developed full-stack features for SaaS product **1Management**: RESTful APIs, responsive dashboards, database optimization
+- 📈 Improved overall system stability and performance through code reviews and query tuning
+
+---
+
 ## 🛠️ Tech Stack
 
 **GenAI & LLM**
@@ -61,7 +103,7 @@ Currently at **Ministry of Electronics & IT (NeGD, Government of India)**, build
 
 ---
 
-## 💼 Featured Projects
+## 🔥 Featured Projects
 
 ### 🏛️ AI-Powered Expert Selection System (UPSC)
 > **RAG · BERT · FAISS · Linear Programming · Government of India**
@@ -104,6 +146,26 @@ Enterprise-grade RAG pipeline with document ingestion, chunking, embedding, vect
 
 ---
 
+### ✝️ ChristianityAI — Scripture-Grounded Multi-Agent AI Assistant
+> **RAG · Multi-Agent · FAISS · BM25 · Groq LLM · FastAPI · Next.js 15**
+
+Production-grade AI assistant for Christian scripture Q&A, theology, content generation, and image creation — built with hallucination prevention, safety layers, and denomination awareness.
+- 📖 **31,000+ KJV verses** indexed with FAISS + BM25 hybrid retrieval (BAAI/bge embeddings)
+- 🤖 **7-route agent system**: Scripture QA → Theology → Content Gen → Image Gen → Verse Verification → Safety → Citation Validator
+- 🛡️ **Anti-hallucination pipeline**: retrieval-only answers, confidence thresholds, post-generation citation validator, fake verse detection
+- ⚡ **Safety layer**: regex fast-path + LLM moderation blocking hate speech, jailbreaks, prompt injections
+- 🏛️ **Denomination-aware**: Catholic / Protestant / Orthodox multi-perspective responses
+- 📊 **Evaluation suite**: 5 test categories with quantitative metrics (hallucination rate, safety block rate, verse accuracy)
+
+---
+
+### 🗣️ Hindi Speech Sentiment Analyzer
+> **TF-IDF · Text Clustering · Streamlit · spaCy · NLP**
+
+Streamlit app analyzing political speeches by speaker and topic — reduced manual speech analysis time by **70%**.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -133,3 +195,4 @@ Enterprise-grade RAG pipeline with document ingestion, chunking, embedding, vect
 ![Profile Views](https://komarev.com/ghpvc/?username=Pratikkumar201&color=58A6FF&style=flat-square)
 
 </div>
+PLACEHOLDER

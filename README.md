@@ -76,6 +76,7 @@ Currently at **Ministry of Electronics & IT (NeGD, Government of India)**, build
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D4A843?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=flat-square)
@@ -105,6 +106,22 @@ Currently at **Ministry of Electronics & IT (NeGD, Government of India)**, build
 ---
 
 ## 🔥 Featured Projects
+
+### 💊 MediGuide — Personal AI Medication Management Agent
+> **Google ADK 2.0 · Gemini · Multi-Agent · MCP · Gradio · HuggingFace Spaces**
+
+A personal AI medication management agent built as a capstone for the **Kaggle 5-Day AI Agents Intensive Vibe Coding Course with Google** — covering 5 of 6 core course concepts in a single deployed system.
+
+- 🤖 **Multi-Agent Architecture**: Root orchestrator + 3 specialist sub-agents (Scheduler, DrugQA, SymptomTracker) built with Google ADK 2.0
+- 🔌 **MCP Tool**: OpenFDA REST API wrapped as ADK FunctionTool for real-time FDA drug label and interaction data
+- 🧠 **Persistent Memory**: SQLite-backed medication and symptom tracking with cross-session persistence
+- 🔒 **Security Layer**: Prompt injection stripping, medical domain guardrail, and full audit logging
+- 🚀 **Deployed**: Live on HuggingFace Spaces with encrypted secret management
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/pratikkumar1234/MediGuide-v2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratikkumar201/MediGuide-v2)
+
+---
 
 ### 🏛️ AI-Powered Expert Selection System (UPSC)
 > **RAG · BERT · FAISS · Linear Programming · Government of India**

@@ -163,17 +163,33 @@ Production-grade AI assistant for Christian scripture Q&A, theology, content gen
 
 ---
 
-### 🧠 Advanced Agentic AI System (LangGraph)
-> **LangGraph · Tool Calling · Multi-Agent · FastAPI**
+### 🤖 AgentIQ — Advanced Agentic AI System
+> **LangGraph · LangChain · FAISS · BM25 · FastAPI · SSE · Multi-Agent**
 
-Multi-agent orchestration with DAG pipelines, agent-to-agent handoffs, conditional routing, and human-in-the-loop checkpoints.
+Production-grade multi-agent orchestration system with complex autonomous reasoning capabilities.
+
+- 🧠 **6 Specialized Agents**: Researcher, Coder, Analyzer, Writer, Critic, Supervisor — enabling autonomous decomposition of complex multi-step reasoning tasks
+- 🔀 **LangGraph DAG Pipelines**: Conditional routing, agent-to-agent handoffs, and human-in-the-loop checkpoints via interrupt mechanism
+- 🔍 **Hybrid Retrieval**: FAISS semantic + BM25 keyword fusion with confidence thresholding for hallucination mitigation
+- ⚡ **Production API**: FastAPI REST API with SSE streaming and full pipeline observability via LangGraph MemorySaver checkpointing
+- 🛠️ **Tool-Calling Agents**: Web search, Wikipedia, and Python execution via LangChain AgentExecutor
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratikkumar201/AgentIQ)
 
 ---
 
-### 📚 LangChain RAG Knowledge Assistant
-> **LangChain · SentenceBERT · pgVector · Semantic Search**
+### 📚 DocMind — Enterprise RAG Assistant
+> **LangChain · FastAPI · FAISS · BM25 · Groq LLMs · Sentence-BERT**
 
-Enterprise-grade RAG pipeline with document ingestion, chunking, embedding, vector storage, and multi-turn QA with LLM evaluation.
+Enterprise-grade RAG pipeline designed for context-aware, multi-turn institutional knowledge retrieval.
+
+- 📄 **Full RAG Pipeline**: Document ingestion → Chunking → Sentence-BERT Embedding → FAISS/BM25 hybrid storage
+- 🔍 **Hybrid Retrieval**: Semantic + keyword fusion for robust, high-accuracy document search
+- 💬 **Conversational Memory**: Multi-turn dialogue with accurate context retention across sessions
+- 🛡️ **Hallucination Mitigation**: Confidence thresholding, citation-based responses, and LLM evaluation metrics
+- 🚀 **Production Server**: FastAPI inference server with session management and full pipeline observability
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratikkumar201/DocMind-Enterprise-RAG-Assistant)
 
 ---
 

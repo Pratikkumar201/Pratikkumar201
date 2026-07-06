@@ -160,7 +160,7 @@ Production-grade AI assistant for Christian scripture Q&A, theology, content gen
 - ⚡ **Safety layer**: regex fast-path + LLM moderation blocking hate speech, jailbreaks, prompt injections
 - 🏛️ **Denomination-aware**: Catholic / Protestant / Orthodox multi-perspective responses
 - 📊 **Evaluation suite**: 5 test categories with quantitative metrics (hallucination rate, safety block rate, verse accuracy)
-- 
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratikkumar201/Christianity-AI)
 
 ---

@@ -185,17 +185,6 @@ Streamlit app analyzing political speeches by speaker and topic — reduced manu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikkumar201&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikkumar201&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
 
 ## 🏅 Certifications
 

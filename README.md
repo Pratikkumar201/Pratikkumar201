@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack AI Engineer** with **1.5+ years** of experience building production-grade GenAI systems — from RAG pipelines and LangChain/LangGraph agentic workflows to LLM-powered microservices deployed on AWS.
+I'm a **Full Stack AI Engineer** with near **2 years** of experience building production-grade GenAI systems — from RAG pipelines and LangChain/LangGraph agentic workflows to LLM-powered microservices deployed on AWS.
 
 Currently at **Ministry of Electronics & IT (NeGD, Government of India)**, building AI automation systems serving senior government leadership — including an expert selection system that processes **17,000+ records** using BERT, FAISS, and constraint optimization.
 
